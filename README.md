@@ -24,4 +24,4 @@ Apuntes y ejemplos de Javascript.
 - [NodeJs-Javascript](https://github.com/josepereza/nodejs---tutorial)
 - [fetch-API](https://github.com/josepereza/fetch-API)
 - [callbacks-promises-async-await](https://github.com/josepereza/callbacks-promises-async-await)
-- [ejemplos html5-javascript] (https://github.com/josepereza/html5)
+- [ejemplos html5-javascript](https://github.com/josepereza/html5)
