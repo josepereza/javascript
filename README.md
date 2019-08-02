@@ -27,4 +27,5 @@ Apuntes y ejemplos de Javascript.
 - [ejemplos html5-javascript](https://github.com/josepereza/html5)
 - [Ejemplo-APIs-publicas-javascript](https://github.com/josepereza/APIs-publicas-javascript)
 - [Parameters -nodejs-javascript](https://github.com/josepereza/nodejs-parameters)
+- [promises-sample-javascript](https://github.com/josepereza/promises-sample-javascript)
 
