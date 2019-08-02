@@ -28,4 +28,5 @@ Apuntes y ejemplos de Javascript.
 - [Ejemplo-APIs-publicas-javascript](https://github.com/josepereza/APIs-publicas-javascript)
 - [Parameters -nodejs-javascript](https://github.com/josepereza/nodejs-parameters)
 - [promises-sample-javascript](https://github.com/josepereza/promises-sample-javascript)
+- [Ejemplo promesas-encadenadas](https://github.com/josepereza/video_fondo_con_ventana)
 
