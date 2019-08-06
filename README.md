@@ -30,3 +30,4 @@ Apuntes y ejemplos de Javascript.
 - [promises-sample-javascript](https://github.com/josepereza/promises-sample-javascript)
 - [Ejemplo promesas-encadenadas](https://github.com/josepereza/video_fondo_con_ventana)
 - [Curso nodejs-Javascript](https://github.com/josepereza/nodejs-javascript-curso-2019)
+- [Fetch-API -get-post](https://github.com/josepereza/fetchAPI/blob/master/index.html)
