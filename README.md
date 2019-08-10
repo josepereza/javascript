@@ -32,3 +32,4 @@ Apuntes y ejemplos de Javascript.
 - [Curso nodejs-Javascript](https://github.com/josepereza/nodejs-javascript-curso-2019)
 - [Fetch-API -get-post](https://github.com/josepereza/fetchAPI)
 - [NodeJS-Fetch-API](https://github.com/josepereza/nodejs-fetch-API)
+- [NodeJS-Fetch-API-con acceso a MARIADB/MYSQL](https://github.com/josepereza/nodejs-fetch-API-2)
